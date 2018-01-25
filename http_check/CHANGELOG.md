@@ -1,5 +1,12 @@
 # CHANGELOG - http_check
 
+2.0.0 / Unreleased
+==================
+
+### Changes
+
+* [DEPRECATION] Remove the `skip_event` option from the check. See [#1054][]
+
 1.3.1 / 2018-01-17
 ==================
 
@@ -62,3 +69,4 @@
 [#758]: https://github.com/DataDog/integrations-core/issues/758
 [@xkrt]: https://github.com/xkrt
 [#905]:https://github.com/DataDog/integrations-core/pull/905
+[#1054]:https://github.com/DataDog/integrations-core/pull/1054
